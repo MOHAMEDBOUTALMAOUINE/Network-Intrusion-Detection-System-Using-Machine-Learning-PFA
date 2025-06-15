@@ -1,7 +1,7 @@
 # NETWORK-INTRUSION-DETECTION-SYSTEM-USING-MACHINE-LEARNING-PFA
 
 <p align="center">
-  <em>Detect Threats Faster, Stay Secure Smarter</em>
+  <em>Detect Threats Faster, Stay Secure and Safe</em>
 </p>
 
 <p align="center">
@@ -30,43 +30,29 @@
 
 ## 🌟 Overview
 
-This is my End-Of-Year Project (PFA) for my 4th year of engineering as a cybersecurity student at ENSIASD. The project implements an advanced Network Traffic Analysis and Intrusion Detection System that combines signature-based detection (Snort 3), behavioral analysis (Machine Learning), and flow-based monitoring (CICFlowMeter) to provide comprehensive network security in Linux environments. The system features real-time traffic analysis, automated threat detection, and an intuitive web-based dashboard for security monitoring and alert management.
+This project is my End-Of-Year Project (PFA) for my 4th year of engineering as a cybersecurity student at ENSIASD. It implements an advanced, modular Network Traffic Analysis and Intrusion Detection System (IDS) for Linux environments. The system leverages signature-based detection (Snort 3), behavioral analysis (Machine Learning), and flow-based monitoring (CICFlowMeter) to deliver comprehensive, real-time network security. An intuitive web dashboard provides live monitoring, alert management, and historical insights.
 
 ## 🚀 Key Features
 
-- **Real-time Traffic Capture**: Continuous network traffic monitoring using tcpdump
-- **Multi-layer Analysis**:
-  - Signature-based detection with Snort 3
-  - Behavioral analysis using Machine Learning (XGBoost, PCA)
-  - Flow-based feature extraction with CICFlowMeter
-- **Automated Alert System**:
-  - Email notifications for critical alerts
-  - Detailed alert logging and history
-- **Web Interface**:
-  - Real-time monitoring dashboard
-  - Historical data visualization
-  - Alert management system
+- **Real-time Traffic Capture:** Continuous monitoring with tcpdump
+- **Multi-layered Detection:**
+  - Signature-based detection (Snort 3)
+  - Behavioral anomaly detection (XGBoost, PCA)
+  - Flow-based feature extraction (CICFlowMeter)
+- **Automated Alerting:** Email notifications and detailed alert history
+- **Web Dashboard:** Real-time and historical data visualization, alert management
+- **Modular & Extensible:** Easily adaptable for research or production
 
-## 🛠️ Technical Stack
+## 🛠️ Technology Stack
 
-- **Core Technologies**:
-  - Python 3.8+
-  - Snort 3
-  - CICFlowMeter
-  - XGBoost
-  - Flask
-
-- **Key Dependencies**:
-  - pandas >= 1.3.0
-  - scikit-learn >= 0.24.2
-  - joblib >= 1.0.1
-  - watchdog >= 2.1.0
-  - Flask >= 2.0.1
-  - python-dateutil >= 2.8.2
+- **Languages & Frameworks:** Python 3.8+, Java (for CICFlowMeter), Flask
+- **Security Tools:** Snort 3, CICFlowMeter
+- **Machine Learning:** XGBoost, scikit-learn, pandas
+- **Other:** watchdog, joblib, python-dateutil
 
 ## 📋 Prerequisites
 
-- Linux-based operating system (tested on Kali Linux)
+- Linux-based OS (tested on Kali Linux)
 - Root/sudo privileges
 - Snort 3 installed and configured
 - Java Runtime Environment (for CICFlowMeter)
@@ -80,7 +66,7 @@ This is my End-Of-Year Project (PFA) for my 4th year of engineering as a cyberse
    cd Network-Intrusion-Detection-System-Using-Machine-Learning-PFA
    ```
 
-2. **Install required Python packages:**
+2. **Install Python dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
@@ -92,77 +78,64 @@ This is my End-Of-Year Project (PFA) for my 4th year of engineering as a cyberse
    ```
 
 4. **Setup CICFlowMeter:**
-   - Download and build CICFlowMeter from [CICFlowMeter GitHub](https://github.com/ahlashkari/CICFlowMeter).
-   - Ensure Java is installed and accessible from your terminal.
+   - Download and build from [CICFlowMeter GitHub](https://github.com/ahlashkari/CICFlowMeter).
+   - Ensure Java is installed and accessible.
 
-5. **Place your ML models in the `Models&&scaler&&PCA/` directory:**
-   - scaler.pkl
-   - pca.pkl
-   - Multi_classification_XGBoost_depth_6.pkl
+5. **Add ML models to `Models&&scaler&&PCA/`:**
+   - `scaler.pkl`
+   - `pca.pkl`
+   - `Multi_classification_XGBoost_depth_6.pkl`
 
-## 💻 Running the System
+## 💻 How to Run
 
-The system requires **three terminal windows** running as root. Open three terminals and run the following commands:
+> **Open three terminal windows as root and run the following:**
 
-### Terminal 1 - Main System
+### Terminal 1 – Main System
 ```bash
 sudo python3 main.py
 ```
-Handles:
-- Network traffic capture
-- Snort analysis
-- Web interface
+Handles: traffic capture, Snort analysis, web dashboard
 
-### Terminal 2 - ML Processor
+### Terminal 2 – ML Processor
 ```bash
 sudo python3 ml_processor.py
 ```
-Handles:
-- Network flow processing
-- Anomaly detection
-- ML predictions
+Handles: flow processing, anomaly detection, ML predictions
 
-### Terminal 3 - Alert System
+### Terminal 3 – Alert System
 ```bash
 sudo python3 gmail_alert.py
 ```
-Handles:
-- Security alert processing
-- Email notifications
-- Alert history
+Handles: alert processing, email notifications, alert history
 
 ## 📊 System Architecture
 
-1. **Traffic Capture Module:**  
-   Real-time packet capture using tcpdump, automatic file rotation and management.
-
+1. **Traffic Capture:**  
+   Real-time packet capture with tcpdump, automatic file rotation.
 2. **Analysis Pipeline:**  
-   Snort-based signature detection, CICFlowMeter flow analysis, machine learning-based anomaly detection.
-
+   Snort 3 for signature detection, CICFlowMeter for flow extraction, ML for anomaly detection.
 3. **Alert Management:**  
-   Email notification system, alert logging and storage, alert history tracking.
-
-4. **Web Interface:**  
-   Real-time monitoring dashboard, historical data analysis, alert management interface.
+   Email notifications, alert logging, and history.
+4. **Web Dashboard:**  
+   Live monitoring, historical data, and alert management.
 
 ## 📁 Directory Structure
 
-- `pcap_captures/` - PCAP files from tcpdump
-- `snort_alerts/` - Snort alert JSON files
-- `flow_features/` - Flow features CSV files
-- `results/` - ML prediction results
-- `Models&&scaler&&PCA/` - ML model files
-- `logs/` - System logs
-- `templates/` - Web interface templates
-- `static/` - Static web assets
+- `pcap_captures/` – Captured PCAP files
+- `snort_alerts/` – Snort alert JSON files
+- `flow_features/` – Flow features CSVs
+- `results/` – ML prediction results
+- `Models&&scaler&&PCA/` – ML model files
+- `logs/` – System logs
+- `templates/` – Web templates
+- `static/` – Static assets
 
 ## 🔒 Security Features
 
 - Real-time traffic analysis
-- Multiple detection methods
-- Automated alert system
-- Detailed logging and monitoring
-- Secure alert delivery
+- Multi-method detection
+- Automated, secure alerting
+- Comprehensive logging and monitoring
 
 ## 📝 License
 
@@ -170,12 +143,13 @@ MIT License
 
 ## 👥 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please open an issue or submit a pull request.
 
 ## ⚠️ Disclaimer
 
-This tool is designed for security research and network monitoring purposes only. Users are responsible for ensuring compliance with local laws and regulations regarding network monitoring and data collection.
+This tool is for research and educational purposes only. Ensure compliance with all applicable laws and regulations regarding network monitoring and data collection.
 
 ## 📧 Contact
 
-mohamed.boutalmaouine.78@edu.uiz.ac.ma
+For questions or collaboration, contact:  
+**mohamed.boutalmaouine.78@edu.uiz.ac.ma**
