@@ -1,78 +1,169 @@
-# Network Traffic Analysis System
+# 🛡️ Advanced Network Traffic Analysis & Intrusion Detection System
 
-This system provides real-time network traffic monitoring, analysis, and visualization using a combination of tools including tcpdump, Snort 3, PyFlowMeter, and machine learning.
+## 🌟 Overview
+This project implements a sophisticated Network Traffic Analysis and Intrusion Detection System that combines multiple security tools and machine learning techniques to provide real-time network monitoring and threat detection. The system processes network traffic, analyzes it using both signature-based and behavioral detection methods, and provides detailed insights through a web interface.
 
-## Features
+## 🚀 Key Features
 
-- Real-time network traffic capture using tcpdump
-- Intrusion detection using Snort 3
-- Network flow feature extraction using PyFlowMeter
-- Machine learning-based traffic classification using XGBoost
-- Web-based visualization dashboard
+- **Real-time Traffic Capture**: Continuous network traffic monitoring using tcpdump
+- **Multi-layer Analysis**:
+  - Signature-based detection using Snort 3
+  - Behavioral analysis using machine learning
+  - Flow-based analysis with PyFlowMeter
+- **Advanced ML Detection**:
+  - XGBoost-based classification
+  - PCA for feature reduction
+  - Comprehensive feature extraction
+- **Automated Alert System**:
+  - Email notifications for critical alerts
+  - Detailed alert logging and history
+- **Web Interface**:
+  - Real-time monitoring dashboard
+  - Historical data visualization
+  - Alert management system
 
-## Prerequisites
+## 🛠️ Technical Stack
 
-- Python 3.8+
-- tcpdump
-- Snort 3
-- PyFlowMeter (with virtual environment)
-- Required Python packages (see requirements.txt)
+- **Core Technologies**:
+  - Python 3.8+
+  - Snort 3
+  - PyFlowMeter
+  - XGBoost
+  - Flask
 
-## Installation
+- **Key Dependencies**:
+  - pandas >= 1.3.0
+  - scikit-learn >= 0.24.2
+  - joblib >= 1.0.1
+  - watchdog >= 2.1.0
+  - Flask >= 2.0.1
+  - python-dateutil >= 2.8.2
 
-1. Clone this repository
-2. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Ensure Snort 3 is installed and configured:
-   - Configuration file: `/etc/snort/snort.lua`
-   - Local rules: `/etc/snort/rules/local.rules`
+## 📋 Prerequisites
+
+- Linux-based operating system (tested on Kali Linux)
+- Root/sudo privileges
+- Snort 3 installed and configured
+- Network interface with monitoring capabilities
+- Python 3.8 or higher
+
+## 🚀 Installation
+
+1. Clone the repository:
+```bash
+git clone [repository-url]
+cd [repository-name]
+```
+
+2. Install required Python packages:
+```bash
+pip install -r requirements.txt
+```
+
+3. Configure Snort:
+```bash
+sudo cp /etc/snort/snort.lua /etc/snort/snort.lua.backup
+sudo cp /etc/snort/rules/local.rules /etc/snort/rules/local.rules.backup
+```
 
 4. Setup PyFlowMeter:
-   - Ensure PyFlowMeter is installed at `~/Desktop/PFA - IDS+ML/pyflowmeter/`
-   - Activate the virtual environment:
-     ```bash
-     source ~/Desktop/PFA - IDS+ML/pyflowmeter/pyflowmeter_env/bin/activate
-     ```
+```bash
+cd pyflowmeter
+python -m venv pyflowmeter_env
+source pyflowmeter_env/bin/activate
+pip install -r requirements.txt
+```
 
 5. Place your ML models in the `Models&&scaler&&PCA/` directory:
    - scaler.pkl
    - pca.pkl
    - Multi_classification_XGBoost_depth_6.pkl
 
-## Usage
+## 💻 Running the System
 
-1. Start the system:
-   ```bash
-   python main.py
-   ```
+The system requires three terminal windows running as root. Open three terminal windows and run the following commands:
 
-2. Access the web interface at `http://localhost:5000`
+### Terminal 1 - Main System
+```bash
+sudo python3 main.py
+```
+This starts the main system which handles:
+- Network traffic capture
+- Snort analysis
+- Web interface
 
-## Directory Structure
+### Terminal 2 - ML Processor
+```bash
+sudo python3 ml_processor.py
+```
+This runs the machine learning component which:
+- Processes network flows
+- Performs anomaly detection
+- Generates predictions
 
-- `~/Desktop/PFA - IDS+ML/pcap_captures/` - PCAP files from tcpdump
-- `~/Desktop/PFA - IDS+ML/snort_alerts/` - Snort alert JSON files
-- `~/Desktop/PFA - IDS+ML/flow_features/` - Flow features CSV files
-- `~/Desktop/PFA - IDS+ML/results/` - ML prediction results
+### Terminal 3 - Alert System
+```bash
+sudo python3 gmail_alert.py
+```
+This manages the alert system which:
+- Processes security alerts
+- Sends email notifications
+- Maintains alert history
+
+## 📊 System Architecture
+
+The system follows a modular architecture with the following components:
+
+1. **Traffic Capture Module**:
+   - Real-time packet capture using tcpdump
+   - Automatic file rotation and management
+
+2. **Analysis Pipeline**:
+   - Snort-based signature detection
+   - PyFlowMeter flow analysis
+   - Machine learning-based anomaly detection
+
+3. **Alert Management**:
+   - Email notification system
+   - Alert logging and storage
+   - Alert history tracking
+
+4. **Web Interface**:
+   - Real-time monitoring dashboard
+   - Historical data analysis
+   - Alert management interface
+
+## 📁 Directory Structure
+
+- `pcap_captures/` - PCAP files from tcpdump
+- `snort_alerts/` - Snort alert JSON files
+- `flow_features/` - Flow features CSV files
+- `results/` - ML prediction results
 - `Models&&scaler&&PCA/` - ML model files
+- `logs/` - System logs
+- `templates/` - Web interface templates
+- `static/` - Static web assets
 
-## Feature Extraction
+## 🔒 Security Features
 
-The system extracts the following features from network traffic:
-- Destination Port
-- Flow Duration
-- Total Fwd/Backward Packets
-- Packet Length Statistics
-- Flow IAT (Inter-Arrival Time) Statistics
-- Flag Counts
-- And more (see main.py for complete list)
+- Real-time traffic analysis
+- Multiple detection methods
+- Automated alert system
+- Detailed logging and monitoring
+- Secure alert delivery
 
-## Logging
+## 📝 License
 
-All system activities are logged to `pipeline.log`
+MIT License
 
-## License
+## 👥 Contributing
 
-MIT License 
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## ⚠️ Disclaimer
+
+This tool is designed for security research and network monitoring purposes only. Users are responsible for ensuring compliance with local laws and regulations regarding network monitoring and data collection.
+
+## 📧 Contact
+
+[Your contact information]
