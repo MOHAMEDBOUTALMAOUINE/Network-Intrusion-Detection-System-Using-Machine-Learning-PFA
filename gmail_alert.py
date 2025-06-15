@@ -13,7 +13,7 @@ import sys
 
 # Configuration
 GMAIL_USER = "ids.alerts.pfa@gmail.com"
-GMAIL_PASSWORD = "mqpz xaox rscv tuwd"
+GMAIL_PASSWORD = "xxxx xxxx xxxx xxxx"
 RECIPIENT_EMAIL = "ids.alerts.pfa@gmail.com"
 ALERTS_HISTORY_FILE = "alerts_history.json"
 THRESHOLD_INCREASE = 1.5  # Seuil d'augmentation pour considérer une alerte comme significative
