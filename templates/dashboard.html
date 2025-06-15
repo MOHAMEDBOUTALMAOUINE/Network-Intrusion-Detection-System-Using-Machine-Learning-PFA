@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Network Traffic Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+</head>
+<body>
+    <div class="dashboard container">
+        <header class="dashboard-header">
+            <h1><i class="bi bi-shield-check"></i> Network Traffic Analysis Dashboard</h1>
+            <div>
+                <div class="last-update">Dernière mise à jour: <span id="lastUpdate">-</span></div>
+                <button id="themeToggle" class="btn btn-outline-secondary btn-sm ms-3" title="Basculer le thème">
+                    <i class="bi bi-moon"></i>
+                </button>
+            </div>
+        </header>
+
+        <div class="stats-overview">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="stats-card primary">
+                        <div class="stats-icon"><i class="bi bi-graph-up"></i></div>
+                        <div class="stats-info">
+                            <h3>Total Échantillons</h3>
+                            <p id="totalSamples">0</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stats-card success">
+                        <div class="stats-icon"><i class="bi bi-shield-check"></i></div>
+                        <div class="stats-info">
+                            <h3>Trafic Normal</h3>
+                            <p id="benignCount">0</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stats-card danger">
+                        <div class="stats-icon"><i class="bi bi-exclamation-triangle"></i></div>
+                        <div class="stats-info">
+                            <h3>Attaques Détectées</h3>
+                            <p id="attackCount">0</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="stats-card info">
+                        <div class="stats-icon"><i class="bi bi-percent"></i></div>
+                        <div class="stats-info">
+                            <h3>Confiance Moyenne</h3>
+                            <p id="avgConfidence">0%</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-4">
+            <div class="col-md-8">
+                <div class="stats-card">
+                    <div class="card-header">
+                        <h3><i class="bi bi-table"></i> Analyse récente du trafic</h3>
+                        <div class="card-actions">
+                            <button class="btn btn-sm btn-outline-primary" onclick="refreshData()">
+                                <i class="bi bi-arrow-clockwise"></i> Rafraîchir
+                            </button>
+                        </div>
+                    </div>
+                    <div class="table-responsive">
+                        <div id="resultsTable"></div>
+                    </div>
+                    <div id="noResultsMessage" style="display:none; color:#888; text-align:center; margin-top:20px;">
+                        <i class="bi bi-info-circle"></i> Aucun résultat de prédiction disponible pour le moment.
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="stats-card">
+                    <div class="card-header">
+                        <h3><i class="bi bi-pie-chart"></i> Répartition du trafic</h3>
+                    </div>
+                    <div class="chart-container" style="position: relative; height: 300px;">
+                        <canvas id="predictionChart"></canvas>
+                    </div>
+                </div>
+                <div class="stats-card mt-4">
+                    <div class="card-header">
+                        <h3><i class="bi bi-bar-chart-line"></i> Évolution des attaques</h3>
+                    </div>
+                    <div class="chart-container" style="position: relative; height: 300px;">
+                        <canvas id="timelineChart"></canvas>
+                    </div>
+                </div>
+                <div class="stats-card mt-4">
+                    <div class="card-header">
+                        <h3><i class="bi bi-clock-history"></i> Activité récente</h3>
+                    </div>
+                    <div id="recentActivity" class="activity-list">
+                        <!-- L'activité récente sera ajoutée ici dynamiquement -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="loadingOverlay" class="loading-overlay">
+        <div class="spinner"></div>
+    </div>
+
+    <div id="toastContainer" class="toast-container"></div>
+
+    <script id="classStylesData" type="application/json">{{ class_styles|tojson|safe }}</script>
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html> 

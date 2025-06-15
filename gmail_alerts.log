@@ -1,0 +1,46 @@
+2025-05-25 06:27:51,391 - ERROR - Erreur lors de l'envoi de l'email : (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-447f73d4aa2sm208683455e9.21 - gsmtp')
+2025-05-25 06:28:25,635 - ERROR - Erreur lors de l'envoi de l'email : (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a4c5360a13sm6656218f8f.96 - gsmtp')
+2025-05-25 06:33:28,782 - ERROR - Erreur lors de l'envoi de l'email : (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a4d74843b2sm679398f8f.53 - gsmtp')
+2025-05-25 06:34:29,758 - ERROR - Erreur lors de l'envoi de l'email : (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-447f1ef0aadsm202838355e9.12 - gsmtp')
+2025-05-25 06:44:17,348 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-25 07:26:44,547 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-25 07:27:16,131 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-25 07:27:49,810 - INFO - Email d'alerte envoyé avec succès pour 3 alertes
+2025-05-25 07:28:49,060 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-25 07:29:20,745 - INFO - Email d'alerte envoyé avec succès pour 3 alertes
+2025-05-25 07:29:52,568 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-25 07:33:42,967 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-25 07:34:16,310 - INFO - Email d'alerte envoyé avec succès pour 4 alertes
+2025-05-25 07:34:48,595 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-27 11:57:09,546 - ERROR - Erreur lors de l'envoi de l'email : [Errno 101] Network is unreachable
+2025-05-27 12:03:40,022 - INFO - Email d'alerte envoyé avec succès pour 2 alertes
+2025-05-27 12:04:43,195 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-27 12:05:16,271 - INFO - Email d'alerte envoyé avec succès pour 2 alertes
+2025-05-27 12:09:22,728 - ERROR - Erreur lors de l'envoi de l'email : [Errno 101] Network is unreachable
+2025-05-27 12:23:24,462 - ERROR - Erreur lors de l'envoi de l'email : [Errno 101] Network is unreachable
+2025-05-27 15:59:22,770 - ERROR - Erreur lors de l'envoi de l'email : (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3a4cf4c6b1fsm10837163f8f.19 - gsmtp')
+2025-05-27 16:00:23,865 - ERROR - Erreur lors de l'envoi de l'email : (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-447f73d4b68sm282707905e9.23 - gsmtp')
+2025-05-27 16:03:46,614 - INFO - Email d'alerte envoyé avec succès pour 2 alertes
+2025-05-27 16:04:18,118 - INFO - Email d'alerte envoyé avec succès pour 3 alertes
+2025-05-27 16:05:49,326 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-27 16:06:20,721 - INFO - Email d'alerte envoyé avec succès pour 2 alertes
+2025-05-27 16:06:51,876 - INFO - Email d'alerte envoyé avec succès pour 2 alertes
+2025-05-27 16:07:53,041 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-27 16:08:24,361 - INFO - Email d'alerte envoyé avec succès pour 2 alertes
+2025-05-27 16:56:46,886 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-27 16:57:20,440 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-28 05:23:32,215 - ERROR - Erreur lors de l'envoi de l'email : [Errno -3] Temporary failure in name resolution
+2025-05-28 05:25:02,596 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-05-28 05:26:06,065 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-01 18:16:31,695 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-01 18:17:05,118 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-01 18:18:36,979 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-02 08:38:09,610 - ERROR - Erreur lors de l'envoi de l'email : Connection unexpectedly closed
+2025-06-02 08:42:17,320 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-02 08:45:30,555 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-02 08:46:04,615 - INFO - Email d'alerte envoyé avec succès pour 3 alertes
+2025-06-02 08:46:57,307 - INFO - Email d'alerte envoyé avec succès pour 2 alertes
+2025-06-02 08:47:51,586 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-02 10:20:01,580 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-15 17:17:13,803 - INFO - Email d'alerte envoyé avec succès pour 1 alertes
+2025-06-15 17:18:45,012 - INFO - Email d'alerte envoyé avec succès pour 2 alertes

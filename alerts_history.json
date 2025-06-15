@@ -1,0 +1,8 @@
+{
+    "Bot": 0,
+    "Brute Force": 1,
+    "DDoS": 5,
+    "DoS": 11,
+    "Port Scan": 1614,
+    "Web Attack": 0
+}

@@ -1,0 +1,4 @@
+
+cd pyflowmeter && source pyflowmeter_env/bin/activate && cd ../
+
+

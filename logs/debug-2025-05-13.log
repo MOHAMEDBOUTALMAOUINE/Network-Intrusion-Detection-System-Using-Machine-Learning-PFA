@@ -1,0 +1,1252 @@
+2025-05-13 16:50:24 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513164953.pcap
+2025-05-13 16:50:24 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513164953
+2025-05-13 16:50:24 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 16:50:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-13 16:50:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-13 16:50:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-13 16:50:25 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-13 16:50:25 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 4c 63  71 6a 6b d9* 86 dd 60 00    33....Lcqjk...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 3d 7e    ....:.........=~
+0020: 46 9e 29 0c  5c c2 ff 02  00 00 00 00  00 00 00 00    F.).\...........
+0030: 00 00 00 00  00 02 85 00  48 9c 00 00  00 00 01 01    ........H.......
+0040: 4c 63 71 6a  6b d9*                                   Lcqjk.          
+
+
+2025-05-13 16:50:25 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513164953.pcap
+2025-05-13 16:50:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513165027.pcap
+2025-05-13 16:50:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513165027
+2025-05-13 16:50:58 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 16:50:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 00 6b    ...$...........k
+0020: 45 12 2e b5  27 4c ff 02  00 00 00 00  00 00 00 00    E...'L..........
+0030: 00 00 00 00  00 16 3a 00  01 00 05 02  00 00 8f 00    ......:.........
+0040: d3 91 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 06    33............`.
+0010: cd 8a 00 b1  11 01 fe 80  00 00 00 00  00 00 75 43    ..............uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 b1  5b 59 00 00    ............[Y..
+0040: 84 00 00 00  00 01 00 00  00 02 06 5f  64 6f 73 76    ..........._dosv
+0050: 63 04 5f 74  63 70 05 6c  6f 63 61 6c  00 00 0c 00    c._tcp.local....
+0060: 01 00 00 00  00 00 1c 08  41 53 55 53  4d 4f 48 41    ........ASUSMOHA
+0070: 06 5f 64 6f  73 76 63 04  5f 74 63 70  05 6c 6f 63    ._dosvc._tcp.loc
+0080: 61 6c 00 08  41 53 55 53  4d 4f 48 41  06 5f 64 6f    al..ASUSMOHA._do
+0090: 73 76 63 04  5f 74 63 70  05 6c 6f 63  61 6c 00 00    svc._tcp.local..
+00a0: 21 00 01 00  00 00 00 00  16 00 00 00  00 1e 00 08    !...............
+00b0: 41 53 55 53  4d 4f 48 41  05 6c 6f 63  61 6c 00 c0    ASUSMOHA.local..
+00c0: 45 00 10 00  01 00 00 00  00 00 1c 05  50 3d 32 35    E...........P=25
+00d0: 36 15 53 48  30 30 3d 69  50 69 6f 4b  43 5a 47 2f    6.SH00=iPioKCZG/
+00e0: 73 6c 78 75  71 63 6e*                                slxuqcn         
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 06    33............`.
+0010: cd 8a 00 34  11 01 fe 80  00 00 00 00  00 00 75 43    ...4..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 34  83 57 00 00    ...........4.W..
+0040: 00 00 00 01  00 00 00 00  00 00 08 41  53 55 53 4d    ...........ASUSM
+0050: 4f 48 41 06  5f 64 6f 73  76 63 04 5f  74 63 70 05    OHA._dosvc._tcp.
+0060: 6c 6f 63 61  6c 00 00 ff  00 01*                      local.....      
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 06    33............`.
+0010: cd 8a 00 34  11 01 fe 80  00 00 00 00  00 00 75 43    ...4..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 34  83 57 00 00    ...........4.W..
+0040: 00 00 00 01  00 00 00 00  00 00 08 41  53 55 53 4d    ...........ASUSM
+0050: 4f 48 41 06  5f 64 6f 73  76 63 04 5f  74 63 70 05    OHA._dosvc._tcp.
+0060: 6c 6f 63 61  6c 00 00 ff  00 01*                      local.....      
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 06    33............`.
+0010: cd 8a 00 34  11 01 fe 80  00 00 00 00  00 00 75 43    ...4..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 34  83 57 00 00    ...........4.W..
+0040: 00 00 00 01  00 00 00 00  00 00 08 41  53 55 53 4d    ...........ASUSM
+0050: 4f 48 41 06  5f 64 6f 73  76 63 04 5f  74 63 70 05    OHA._dosvc._tcp.
+0060: 6c 6f 63 61  6c 00 00 ff  00 01*                      local.....      
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 06    33............`.
+0010: cd 8a 00 eb  11 01 fe 80  00 00 00 00  00 00 75 43    ..............uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 eb  d6 99 00 00    ................
+0040: 84 00 00 00  00 01 00 00  00 04 06 5f  64 6f 73 76    ..........._dosv
+0050: 63 04 5f 74  63 70 05 6c  6f 63 61 6c  00 00 0c 80    c._tcp.local....
+0060: 01 00 00 11  94 00 1c 08  41 53 55 53  4d 4f 48 41    ........ASUSMOHA
+0070: 06 5f 64 6f  73 76 63 04  5f 74 63 70  05 6c 6f 63    ._dosvc._tcp.loc
+0080: 61 6c 00 08  41 53 55 53  4d 4f 48 41  06 5f 64 6f    al..ASUSMOHA._do
+0090: 73 76 63 04  5f 74 63 70  05 6c 6f 63  61 6c 00 00    svc._tcp.local..
+00a0: 21 80 01 00  00 00 78 00  16 00 00 00  00 1e 00 08    !.....x.........
+00b0: 41 53 55 53  4d 4f 48 41  05 6c 6f 63  61 6c 00 c0    ASUSMOHA.local..
+00c0: 45 00 10 80  01 00 00 11  94 00 1c 05  50 3d 32 35    E...........P=25
+00d0: 36 15 53 48  30 30 3d 69  50 69 6f 4b  43 5a 47 2f    6.SH00=iPioKCZG/
+00e0: 73 6c 78 75  71 63 6e 08  41 53 55 53  4d 4f 48 41    slxuqcn.ASUSMOHA
+00f0: 05 6c 6f 63  61 6c 00 00  01 80 01 00  00 00 3c 00    .local........<.
+0100: 04 c0 a8 00  8a c0 a9 00  1c 80 01 00  00 00 3c 00    ..............<.
+0110: 10 fe 80 00  00 00 00 00  00 75 43 c2  ac c9 26 a8    .........uC...&.
+0120: bf                                                    .               
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 06    33............`.
+0010: cd 8a 00 b2  11 01 fe 80  00 00 00 00  00 00 75 43    ..............uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 b2  fb 9d 00 00    ................
+0040: 84 00 00 00  00 01 00 00  00 03 08 41  53 55 53 4d    ...........ASUSM
+0050: 4f 48 41 06  5f 64 6f 73  76 63 04 5f  74 63 70 05    OHA._dosvc._tcp.
+0060: 6c 6f 63 61  6c 00 00 21  80 01 00 00  00 78 00 16    local..!.....x..
+0070: 00 00 00 00  1e 00 08 41  53 55 53 4d  4f 48 41 05    .......ASUSMOHA.
+0080: 6c 6f 63 61  6c 00 c0 0c  00 10 80 01  00 00 11 94    local...........
+0090: 00 1c 05 50  3d 32 35 36  15 53 48 30  30 3d 69 50    ...P=256.SH00=iP
+00a0: 69 6f 4b 43  5a 47 2f 73  6c 78 75 71  63 6e 08 41    ioKCZG/slxuqcn.A
+00b0: 53 55 53 4d  4f 48 41 05  6c 6f 63 61  6c 00 00 01    SUSMOHA.local...
+00c0: 80 01 00 00  00 3c 00 04  c0 a8 00 8a  c0 70 00 1c    .....<.......p..
+00d0: 80 01 00 00  00 3c 00 10  fe 80 00 00  00 00 00 00    .....<..........
+00e0: 75 43 c2 ac  c9 26 a8 bf*                             uC...&..        
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 00 6b    ...$...........k
+0020: 45 12 2e b5  27 4c ff 02  00 00 00 00  00 00 00 00    E...'L..........
+0030: 00 00 00 00  00 16 3a 00  01 00 05 02  00 00 8f 00    ......:.........
+0040: d3 91 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 16:50:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513165027.pcap
+2025-05-13 16:51:32 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513165101.pcap
+2025-05-13 16:51:32 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513165101
+2025-05-13 16:51:32 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 16:51:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 16:51:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 16:51:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 4c 63  71 6a 6b d9* 86 dd 60 00    33....Lcqjk...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 3d 7e    ....:.........=~
+0020: 46 9e 29 0c  5c c2 ff 02  00 00 00 00  00 00 00 00    F.).\...........
+0030: 00 00 00 00  00 02 85 00  48 9c 00 00  00 00 01 01    ........H.......
+0040: 4c 63 71 6a  6b d9*                                   Lcqjk.          
+
+
+2025-05-13 16:51:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2025-05-13 16:51:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2025-05-13 16:51:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513165101.pcap
+2025-05-13 17:25:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513172432.pcap
+2025-05-13 17:25:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513172432
+2025-05-13 17:25:03 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:25:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 44 f1    ...$..........D.
+0020: a6 ff fe 8f  5e 1f ff 02  00 00 00 00  00 00 00 00    ....^..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 27 70 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    'p..............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:25:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 44 f1    ...$..........D.
+0020: a6 ff fe 8f  5e 1f ff 02  00 00 00 00  00 00 00 00    ....^..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 27 70 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    'p..............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:25:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-13 17:25:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-13 17:25:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513172432.pcap
+2025-05-13 17:28:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513172826.pcap
+2025-05-13 17:28:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513172826
+2025-05-13 17:28:57 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:28:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 4c 63  71 6a 6b d9* 86 dd 60 00    33....Lcqjk...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 3d 7e    ....:.........=~
+0020: 46 9e 29 0c  5c c2 ff 02  00 00 00 00  00 00 00 00    F.).\...........
+0030: 00 00 00 00  00 02 85 00  48 9c 00 00  00 00 01 01    ........H.......
+0040: 4c 63 71 6a  6b d9*                                   Lcqjk.          
+
+
+2025-05-13 17:28:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:28:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:28:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2025-05-13 17:28:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2025-05-13 17:28:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513172826.pcap
+2025-05-13 17:39:08 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513173837.pcap
+2025-05-13 17:39:08 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513173837
+2025-05-13 17:39:08 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:39:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:39:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:39:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2025-05-13 17:39:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 26 flow
+2025-05-13 17:39:09 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513173837.pcap
+2025-05-13 17:39:42 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513173911.pcap
+2025-05-13 17:39:42 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513173911
+2025-05-13 17:39:43 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9e c0 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:39:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513173911.pcap
+2025-05-13 17:40:16 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513173945.pcap
+2025-05-13 17:40:16 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513173945
+2025-05-13 17:40:16 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:40:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-13 17:40:17 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-13 17:40:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 44 f1    ....:.........D.
+0020: a6 ff fe 8f  5e 1f ff 02  00 00 00 00  00 00 00 00    ....^..........
+0030: 00 00 00 00  00 02 85 00  02 f9 00 00  00 00 01 01    ................
+0040: 04 95 e6 da  55 15*                                   ....U.          
+
+
+2025-05-13 17:40:17 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513173945.pcap
+2025-05-13 17:50:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513174931.pcap
+2025-05-13 17:50:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513174931
+2025-05-13 17:50:02 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 46 flow
+2025-05-13 17:50:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513174931.pcap
+2025-05-13 17:55:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513175521.pcap
+2025-05-13 17:55:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513175521
+2025-05-13 17:55:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 05    33............`.
+0010: de 8a 00 5a  11 01 fe 80  00 00 00 00  00 00 75 43    ...Z..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 5a  c9 a9 00 00    ...........Z....
+0040: 00 00 00 01  00 00 00 00  00 00 29 53  6d 61 72 74    ..........)Smart
+0050: 2d 54 56 2d  62 34 61 33  37 36 37 36  64 62 65 39    -TV-b4a37676dbe9
+0060: 64 61 62 61  32 30 33 38  35 62 36 66  32 66 62 61    daba20385b6f2fba
+0070: 31 30 33 36  0b 5f 67 6f  6f 67 6c 65  63 61 73 74    1036._googlecast
+0080: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 21 00 01*   ._tcp.local..!..
+
+
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 36 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 05    33............`.
+0010: de 8a 00 5a  11 01 fe 80  00 00 00 00  00 00 75 43    ...Z..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 5a  c9 a9 00 00    ...........Z....
+0040: 00 00 00 01  00 00 00 00  00 00 29 53  6d 61 72 74    ..........)Smart
+0050: 2d 54 56 2d  62 34 61 33  37 36 37 36  64 62 65 39    -TV-b4a37676dbe9
+0060: 64 61 62 61  32 30 33 38  35 62 36 66  32 66 62 61    daba20385b6f2fba
+0070: 31 30 33 36  0b 5f 67 6f  6f 67 6c 65  63 61 73 74    1036._googlecast
+0080: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 21 00 01*   ._tcp.local..!..
+
+
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2025-05-13 17:55:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513175521.pcap
+2025-05-13 17:58:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513175827.pcap
+2025-05-13 17:58:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513175827
+2025-05-13 17:58:58 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 b2 07  12 8b b2 d8* 86 dd 60 00    33............`.
+0010: 00 00 00 24  00 01 00 00  00 00 00 00  00 00 00 00    ...$............
+0020: 00 00 00 00  00 00 ff 02  00 00 00 00  00 00 00 00    ................
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 6d 91 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    m...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 36 f6 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    6...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 36 f6 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    6...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:58:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513175827.pcap
+2025-05-13 17:59:32 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513175901.pcap
+2025-05-13 17:59:32 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513175901
+2025-05-13 17:59:32 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 22 flow
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 17:59:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513175901.pcap
+2025-05-13 18:03:43 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513180311.pcap
+2025-05-13 18:03:43 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513180311
+2025-05-13 18:03:44 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:03:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2025-05-13 18:03:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:03:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:03:44 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2025-05-13 18:03:44 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513180311.pcap
+2025-05-13 18:07:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513180648.pcap
+2025-05-13 18:07:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513180648
+2025-05-13 18:07:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 01    33............`.
+0010: 53 94 00 5a  11 01 fe 80  00 00 00 00  00 00 75 43    S..Z..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 5a  c9 a9 00 00    ...........Z....
+0040: 00 00 00 01  00 00 00 00  00 00 29 53  6d 61 72 74    ..........)Smart
+0050: 2d 54 56 2d  62 34 61 33  37 36 37 36  64 62 65 39    -TV-b4a37676dbe9
+0060: 64 61 62 61  32 30 33 38  35 62 36 66  32 66 62 61    daba20385b6f2fba
+0070: 31 30 33 36  0b 5f 67 6f  6f 67 6c 65  63 61 73 74    1036._googlecast
+0080: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 21 00 01*   ._tcp.local..!..
+
+
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 35 f6 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    5...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 35 f6 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    5...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 01    33............`.
+0010: 53 94 00 5a  11 01 fe 80  00 00 00 00  00 00 75 43    S..Z..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 5a  c9 a9 00 00    ...........Z....
+0040: 00 00 00 01  00 00 00 00  00 00 29 53  6d 61 72 74    ..........)Smart
+0050: 2d 54 56 2d  62 34 61 33  37 36 37 36  64 62 65 39    -TV-b4a37676dbe9
+0060: 64 61 62 61  32 30 33 38  35 62 36 66  32 66 62 61    daba20385b6f2fba
+0070: 31 30 33 36  0b 5f 67 6f  6f 67 6c 65  63 61 73 74    1036._googlecast
+0080: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 21 00 01*   ._tcp.local..!..
+
+
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 36 f6 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    6...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 36 f6 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    6...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:07:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513180648.pcap
+2025-05-13 18:14:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513181428.pcap
+2025-05-13 18:14:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513181428
+2025-05-13 18:14:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 35 f6 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    5...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 c6 0c  23 f0 52 1d* 86 dd 60 00    33......#.R...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c4 0c    ...$............
+0020: 23 ff fe f0  52 1d ff 02  00 00 00 00  00 00 00 00    #...R...........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 35 f6 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    5...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 60 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 60 flow
+2025-05-13 18:15:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513181428.pcap
+2025-05-13 18:23:13 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182236.pcap
+2025-05-13 18:23:13 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513182236
+2025-05-13 18:23:07 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:23:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:23:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:23:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2025-05-13 18:23:07 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2025-05-13 18:23:07 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182236.pcap
+2025-05-13 18:23:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182309.pcap
+2025-05-13 18:23:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513182309
+2025-05-13 18:23:41 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: eb 69 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: eb 69 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: eb 69 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: eb 69 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:23:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182309.pcap
+2025-05-13 18:27:10 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182639.pcap
+2025-05-13 18:27:10 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513182639
+2025-05-13 18:27:11 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:27:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:27:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:27:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182639.pcap
+2025-05-13 18:29:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182832.pcap
+2025-05-13 18:29:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513182832
+2025-05-13 18:29:03 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:29:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:29:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:29:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2025-05-13 18:29:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2025-05-13 18:29:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513182832.pcap
+2025-05-13 18:31:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183124.pcap
+2025-05-13 18:31:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513183124
+2025-05-13 18:31:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2025-05-13 18:31:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183124.pcap
+2025-05-13 18:32:29 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183158.pcap
+2025-05-13 18:32:29 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513183158
+2025-05-13 18:32:30 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 13 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 14 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 28 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 41 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 56 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 59 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 59 flow
+2025-05-13 18:32:31 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183158.pcap
+2025-05-13 18:33:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183233.pcap
+2025-05-13 18:33:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513183233
+2025-05-13 18:33:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 00    33............`.
+0010: 57 4b 00 5a  11 01 fe 80  00 00 00 00  00 00 75 43    WK.Z..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 5a  c9 a9 00 00    ...........Z....
+0040: 00 00 00 01  00 00 00 00  00 00 29 53  6d 61 72 74    ..........)Smart
+0050: 2d 54 56 2d  62 34 61 33  37 36 37 36  64 62 65 39    -TV-b4a37676dbe9
+0060: 64 61 62 61  32 30 33 38  35 62 36 66  32 66 62 61    daba20385b6f2fba
+0070: 31 30 33 36  0b 5f 67 6f  6f 67 6c 65  63 61 73 74    1036._googlecast
+0080: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 21 00 01*   ._tcp.local..!..
+
+
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 38 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 43 flow
+2025-05-13 18:33:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183233.pcap
+2025-05-13 18:34:29 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183358.pcap
+2025-05-13 18:34:29 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513183358
+2025-05-13 18:34:29 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 25 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 29 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 30 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 37 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 49 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 48 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 50 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 53 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 52 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 51 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 54 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 58 flow
+2025-05-13 18:34:30 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513183358.pcap
+2025-05-13 18:41:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184122.pcap
+2025-05-13 18:41:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513184122
+2025-05-13 18:41:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:41:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:41:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:41:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 8a 9f    ....:...........
+0020: 6f ff fe 67  48 60 ff 02  00 00 00 00  00 00 00 00    o..gH`..........
+0030: 00 00 00 00  00 02 85 00  dc 5f 00 00  00 00 01 01    ........._......
+0040: 04 95 e6 da  55 15*                                   ....U.          
+
+
+2025-05-13 18:41:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184122.pcap
+2025-05-13 18:42:57 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184226.pcap
+2025-05-13 18:42:57 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513184226
+2025-05-13 18:42:57 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 08 07    ....:...........
+0020: e5 ff fe 29  46 fd ff 02  00 00 00 00  00 00 00 00    ...)F...........
+0030: 00 00 00 00  00 02 85 00  bb c7 00 00  00 00 01 01    ................
+0040: 04 95 e6 da  55 15*                                   ....U.          
+
+
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 4c 7f    ...$..........L.
+0020: fc 65 dd 77  fa 18 ff 02  00 00 00 00  00 00 00 00    .e.w............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 4e 9a 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    N...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 4c 7f    ...$..........L.
+0020: fc 65 dd 77  fa 18 ff 02  00 00 00 00  00 00 00 00    .e.w............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 4e 9a 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    N...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2025-05-13 18:42:58 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184226.pcap
+2025-05-13 18:45:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184513.pcap
+2025-05-13 18:45:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513184513
+2025-05-13 18:45:44 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:45:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:45:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:45:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:45:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-13 18:45:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 00 6b    ...$...........k
+0020: 45 12 2e b5  27 4c ff 02  00 00 00 00  00 00 00 00    E...'L..........
+0030: 00 00 00 00  00 16 3a 00  01 00 05 02  00 00 8f 00    ......:.........
+0040: d3 91 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:45:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184513.pcap
+2025-05-13 18:46:18 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184547.pcap
+2025-05-13 18:46:18 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513184547
+2025-05-13 18:46:18 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 7c d9  5c a7 37 3a* 86 dd 60 00    33....|.\.7:..`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 61 2f    ....:.........a/
+0020: 05 4f 9a 56  ba 75 ff 02  00 00 00 00  00 00 00 00    .O.V.u..........
+0030: 00 00 00 00  00 02 85 00  b0 28 00 00  00 00 01 01    .........(......
+0040: 7c d9 5c a7  37 3a*                                   |.\.7:          
+
+
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 15 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 27 flow
+2025-05-13 18:46:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184547.pcap
+2025-05-13 18:47:29 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184658.pcap
+2025-05-13 18:47:29 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513184658
+2025-05-13 18:47:30 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:47:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:47:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-13 18:47:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-13 18:47:30 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:47:30 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513184658.pcap
+2025-05-13 18:50:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185024.pcap
+2025-05-13 18:50:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513185024
+2025-05-13 18:50:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:50:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 0d    33............`.
+0010: 2f 2a 00 5a  11 01 fe 80  00 00 00 00  00 00 75 43    /*.Z..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 5a  c9 a9 00 00    ...........Z....
+0040: 00 00 00 01  00 00 00 00  00 00 29 53  6d 61 72 74    ..........)Smart
+0050: 2d 54 56 2d  62 34 61 33  37 36 37 36  64 62 65 39    -TV-b4a37676dbe9
+0060: 64 61 62 61  32 30 33 38  35 62 36 66  32 66 62 61    daba20385b6f2fba
+0070: 31 30 33 36  0b 5f 67 6f  6f 67 6c 65  63 61 73 74    1036._googlecast
+0080: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 21 00 01*   ._tcp.local..!..
+
+
+2025-05-13 18:50:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 fb c8 cb  9e 90 82 a1* 86 dd 60 0d    33............`.
+0010: 2f 2a 00 5a  11 01 fe 80  00 00 00 00  00 00 75 43    /*.Z..........uC
+0020: c2 ac c9 26  a8 bf ff 02  00 00 00 00  00 00 00 00    ...&............
+0030: 00 00 00 00  00 fb 14 e9  14 e9 00 5a  c9 a9 00 00    ...........Z....
+0040: 00 00 00 01  00 00 00 00  00 00 29 53  6d 61 72 74    ..........)Smart
+0050: 2d 54 56 2d  62 34 61 33  37 36 37 36  64 62 65 39    -TV-b4a37676dbe9
+0060: 64 61 62 61  32 30 33 38  35 62 36 66  32 66 62 61    daba20385b6f2fba
+0070: 31 30 33 36  0b 5f 67 6f  6f 67 6c 65  63 61 73 74    1036._googlecast
+0080: 04 5f 74 63  70 05 6c 6f  63 61 6c 00  00 21 00 01*   ._tcp.local..!..
+
+
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 08 07    ....:...........
+0020: e5 ff fe 29  46 fd ff 02  00 00 00 00  00 00 00 00    ...)F...........
+0030: 00 00 00 00  00 02 85 00  bb c7 00 00  00 00 01 01    ................
+0040: 04 95 e6 da  55 15*                                   ....U.          
+
+
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 4c 7f    ...$..........L.
+0020: fc 65 dd 77  fa 18 ff 02  00 00 00 00  00 00 00 00    .e.w............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 4e 9a 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    N...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 4c 7f    ...$..........L.
+0020: fc 65 dd 77  fa 18 ff 02  00 00 00 00  00 00 00 00    .e.w............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 4e 9a 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    N...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 34 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 35 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 39 flow
+2025-05-13 18:50:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185024.pcap
+2025-05-13 18:53:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185248.pcap
+2025-05-13 18:53:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513185248
+2025-05-13 18:53:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:53:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 4c 7f    ...$..........L.
+0020: fc 65 dd 77  fa 18 ff 02  00 00 00 00  00 00 00 00    .e.w............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 4e 9a 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    N...............
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:53:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:53:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:53:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185248.pcap
+2025-05-13 18:53:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185322.pcap
+2025-05-13 18:53:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513185322
+2025-05-13 18:53:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:53:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:53:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:53:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:53:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 7a 2c 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    z,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 79 2c 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    y,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 7a 2c 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    z,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 79 2c 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    y,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 79 2c 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    y,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 7a 2c 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    z,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 79 2c 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    y,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 f8 5e  a0 23 46 e6* 86 dd 60 00    33.....^.#F...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 ea b7    ...$............
+0020: 48 5b ab cd  17 fa ff 02  00 00 00 00  00 00 00 00    H[..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 79 2c 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    y,..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: eb 69 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: eb 69 00 00  00 01 03 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 c7 e2    ...$............
+0020: 6a 40 aa ca  a8 af ff 02  00 00 00 00  00 00 00 00    j@..............
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: ea 69 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    .i..............
+0050: 00 00 00 00  00 00 00 01  00 03*                      ..........      
+
+
+2025-05-13 18:53:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185322.pcap
+2025-05-13 18:54:27 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185356.pcap
+2025-05-13 18:54:27 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513185356
+2025-05-13 18:54:28 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:54:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:54:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-13 18:54:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 4c 63  71 6a 6b d9* 86 dd 60 00    33....Lcqjk...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 3d 7e    ....:.........=~
+0020: 46 9e 29 0c  5c c2 ff 02  00 00 00 00  00 00 00 00    F.).\...........
+0030: 00 00 00 00  00 02 85 00  48 9c 00 00  00 00 01 01    ........H.......
+0040: 4c 63 71 6a  6b d9*                                   Lcqjk.          
+
+
+2025-05-13 18:54:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 18:54:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 17 flow
+2025-05-13 18:54:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 02 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 10  3a ff fe 80  00 00 00 00  00 00 8a 9f    ....:...........
+0020: 6f ff fe 67  48 60 ff 02  00 00 00 00  00 00 00 00    o..gH`..........
+0030: 00 00 00 00  00 02 85 00  dc 5f 00 00  00 00 01 01    ........._......
+0040: 04 95 e6 da  55 15*                                   ....U.          
+
+
+2025-05-13 18:54:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185356.pcap
+2025-05-13 18:57:37 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185706.pcap
+2025-05-13 18:57:37 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250513185706
+2025-05-13 18:57:37 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    null
+********************************************************************************
+0000:*33 33 00 00  00 16 04 95  e6 da 55 15* 86 dd 60 00    33........U...`.
+0010: 00 00 00 24  00 01 fe 80  00 00 00 00  00 00 8e 7a    ...$...........z
+0020: 3d ff fe 61  06 74 ff 02  00 00 00 00  00 00 00 00    =..a.t..........
+0030: 00 00 00 00  00 16 3a 00  05 02 00 00  01 00 8f 00    ......:.........
+0040: 9d c0 00 00  00 01 04 00  00 00 ff 02  00 00 00 00    ................
+0050: 00 00 00 00  00 00 00 00  00 fb*                      ..........      
+
+
+2025-05-13 18:57:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250513185706.pcap

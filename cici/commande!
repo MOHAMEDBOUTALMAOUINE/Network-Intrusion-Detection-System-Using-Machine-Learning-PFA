@@ -1,0 +1,4 @@
+java -cp target/SimpleFlowMeterV4-0.0.4-SNAPSHOT.jar:target/lib/* -Djava.library.path=jnetpcap/linux/jnetpcap-1.4.r1425 cic.cs.unb.ca.ifm.Cmd dos.pcap 1.csv
+
+
+mkdir -p 9 && sudo java -cp target/SimpleFlowMeterV4-0.0.4-SNAPSHOT.jar:target/lib/* -Djava.library.path=jnetpcap/linux/jnetpcap-1.4.r1425 cic.cs.unb.ca.ifm.Cmd ftp_bruteforce.pcap 9

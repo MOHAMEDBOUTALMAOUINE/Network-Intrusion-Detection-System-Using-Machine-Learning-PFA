@@ -1,0 +1,672 @@
+2025-05-25 05:06:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050635.pcap
+2025-05-25 05:06:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050635
+2025-05-25 05:06:47 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:06:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 05:06:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-25 05:06:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-25 05:06:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2025-05-25 05:06:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 23 flow
+2025-05-25 05:06:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050635.pcap
+2025-05-25 05:07:12 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050701.pcap
+2025-05-25 05:07:12 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050701
+2025-05-25 05:07:12 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:07:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050701.pcap
+2025-05-25 05:07:26 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050715.pcap
+2025-05-25 05:07:26 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050715
+2025-05-25 05:07:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:07:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-25 05:07:27 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 12 flow
+2025-05-25 05:07:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050715.pcap
+2025-05-25 05:07:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050729.pcap
+2025-05-25 05:07:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050729
+2025-05-25 05:07:40 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:07:41 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 05:07:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050729.pcap
+2025-05-25 05:07:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050744.pcap
+2025-05-25 05:07:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050744
+2025-05-25 05:07:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:07:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050744.pcap
+2025-05-25 05:08:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050840.pcap
+2025-05-25 05:08:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050840
+2025-05-25 05:08:51 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:08:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:08:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:08:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 05:08:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 05:08:52 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050840.pcap
+2025-05-25 05:09:05 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050854.pcap
+2025-05-25 05:09:05 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050854
+2025-05-25 05:09:05 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:09:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 05:09:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 05:09:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:09:06 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:09:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050854.pcap
+2025-05-25 05:09:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050908.pcap
+2025-05-25 05:09:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525050908
+2025-05-25 05:09:19 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:09:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:09:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:09:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525050908.pcap
+2025-05-25 05:23:28 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052317.pcap
+2025-05-25 05:23:28 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052317
+2025-05-25 05:23:29 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:23:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:23:29 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:23:29 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052317.pcap
+2025-05-25 05:23:43 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052331.pcap
+2025-05-25 05:23:43 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052331
+2025-05-25 05:23:43 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:23:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052331.pcap
+2025-05-25 05:23:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052345.pcap
+2025-05-25 05:23:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052345
+2025-05-25 05:23:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:23:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052345.pcap
+2025-05-25 05:24:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052358.pcap
+2025-05-25 05:24:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052358
+2025-05-25 05:24:09 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:24:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2025-05-25 05:24:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 20 flow
+2025-05-25 05:24:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-25 05:24:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-25 05:24:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-25 05:24:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-25 05:24:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052358.pcap
+2025-05-25 05:24:33 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052422.pcap
+2025-05-25 05:24:33 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052422
+2025-05-25 05:24:33 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:24:34 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 05:24:34 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052422.pcap
+2025-05-25 05:24:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052437.pcap
+2025-05-25 05:24:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052437
+2025-05-25 05:24:48 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:24:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:24:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 05:24:49 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052437.pcap
+2025-05-25 05:28:46 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052835.pcap
+2025-05-25 05:28:46 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052835
+2025-05-25 05:28:46 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:28:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052835.pcap
+2025-05-25 05:29:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052849.pcap
+2025-05-25 05:29:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525052849
+2025-05-25 05:29:00 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:29:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 05:29:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 05:29:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525052849.pcap
+2025-05-25 05:32:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053249.pcap
+2025-05-25 05:32:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525053249
+2025-05-25 05:33:00 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:33:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 05:33:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053249.pcap
+2025-05-25 05:33:14 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053303.pcap
+2025-05-25 05:33:14 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525053303
+2025-05-25 05:33:14 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:33:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053303.pcap
+2025-05-25 05:33:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053338.pcap
+2025-05-25 05:33:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525053338
+2025-05-25 05:33:50 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:33:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2025-05-25 05:33:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 21 flow
+2025-05-25 05:33:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2025-05-25 05:33:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 24 flow
+2025-05-25 05:33:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053338.pcap
+2025-05-25 05:34:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053353.pcap
+2025-05-25 05:34:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525053353
+2025-05-25 05:34:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:34:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 05:34:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2025-05-25 05:34:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 32 flow
+2025-05-25 05:34:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-25 05:34:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 31 flow
+2025-05-25 05:34:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525053353.pcap
+2025-05-25 05:42:50 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054239.pcap
+2025-05-25 05:42:50 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525054239
+2025-05-25 05:42:50 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:42:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 05:42:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 05:42:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054239.pcap
+2025-05-25 05:43:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054253.pcap
+2025-05-25 05:43:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525054253
+2025-05-25 05:43:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:43:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 05:43:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 05:43:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054253.pcap
+2025-05-25 05:43:18 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054307.pcap
+2025-05-25 05:43:18 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525054307
+2025-05-25 05:43:18 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:43:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 05:43:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054307.pcap
+2025-05-25 05:43:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054341.pcap
+2025-05-25 05:43:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525054341
+2025-05-25 05:43:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:43:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 05:43:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 05:43:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 05:43:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 05:43:54 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-25 05:43:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054341.pcap
+2025-05-25 05:44:07 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054356.pcap
+2025-05-25 05:44:07 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525054356
+2025-05-25 05:44:07 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 05:44:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-25 05:44:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 16 flow
+2025-05-25 05:44:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-25 05:44:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 19 flow
+2025-05-25 05:44:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-25 05:44:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 18 flow
+2025-05-25 05:44:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525054356.pcap
+2025-05-25 06:14:37 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525061426.pcap
+2025-05-25 06:14:37 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525061426
+2025-05-25 06:14:37 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:14:38 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 06:14:38 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525061426.pcap
+2025-05-25 06:15:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525061450.pcap
+2025-05-25 06:15:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525061450
+2025-05-25 06:15:02 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:15:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:15:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:15:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525061450.pcap
+2025-05-25 06:15:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525061524.pcap
+2025-05-25 06:15:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525061524
+2025-05-25 06:22:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062240.pcap
+2025-05-25 06:22:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062240
+2025-05-25 06:22:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:22:52 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 06:22:52 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062240.pcap
+2025-05-25 06:23:27 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062316.pcap
+2025-05-25 06:23:27 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062316
+2025-05-25 06:23:28 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:23:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:23:28 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:23:28 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062316.pcap
+2025-05-25 06:26:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062642.pcap
+2025-05-25 06:26:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062642
+2025-05-25 06:26:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:26:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:26:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:26:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062642.pcap
+2025-05-25 06:27:17 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062706.pcap
+2025-05-25 06:27:17 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062706
+2025-05-25 06:27:18 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:27:18 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062706.pcap
+2025-05-25 06:27:42 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062731.pcap
+2025-05-25 06:27:42 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062731
+2025-05-25 06:27:43 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:27:43 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 06:27:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062731.pcap
+2025-05-25 06:27:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062745.pcap
+2025-05-25 06:27:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062745
+2025-05-25 06:27:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:27:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:27:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:27:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:27:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 06:27:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062745.pcap
+2025-05-25 06:28:10 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062759.pcap
+2025-05-25 06:28:10 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062759
+2025-05-25 06:28:10 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:28:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062759.pcap
+2025-05-25 06:28:35 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062824.pcap
+2025-05-25 06:28:35 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062824
+2025-05-25 06:28:36 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:28:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:28:36 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:28:36 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062824.pcap
+2025-05-25 06:28:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062838.pcap
+2025-05-25 06:28:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525062838
+2025-05-25 06:28:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:28:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 06:28:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525062838.pcap
+2025-05-25 06:32:05 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063154.pcap
+2025-05-25 06:32:05 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525063154
+2025-05-25 06:32:05 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:32:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063154.pcap
+2025-05-25 06:32:40 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063229.pcap
+2025-05-25 06:32:40 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525063229
+2025-05-25 06:32:40 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:32:41 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063229.pcap
+2025-05-25 06:32:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063243.pcap
+2025-05-25 06:32:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525063243
+2025-05-25 06:32:54 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:32:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:32:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:32:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063243.pcap
+2025-05-25 06:33:19 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063308.pcap
+2025-05-25 06:33:19 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525063308
+2025-05-25 06:33:20 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:33:20 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 06:33:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063308.pcap
+2025-05-25 06:33:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063323.pcap
+2025-05-25 06:33:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525063323
+2025-05-25 06:33:35 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:33:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:33:35 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:33:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063323.pcap
+2025-05-25 06:33:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063337.pcap
+2025-05-25 06:33:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525063337
+2025-05-25 06:33:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:33:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:33:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:33:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:33:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:33:49 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063337.pcap
+2025-05-25 06:34:03 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063352.pcap
+2025-05-25 06:34:03 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525063352
+2025-05-25 06:34:03 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:34:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:34:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:34:04 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:34:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525063352.pcap
+2025-05-25 06:43:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064324.pcap
+2025-05-25 06:43:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064324
+2025-05-25 06:43:35 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:43:35 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064324.pcap
+2025-05-25 06:43:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064337.pcap
+2025-05-25 06:43:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064337
+2025-05-25 06:43:48 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:43:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 06:43:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 06:43:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 06:43:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 06:43:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064337.pcap
+2025-05-25 06:44:01 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064350.pcap
+2025-05-25 06:44:01 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064350
+2025-05-25 06:44:01 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 06:44:02 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064350.pcap
+2025-05-25 06:44:15 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064404.pcap
+2025-05-25 06:44:15 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064404
+2025-05-25 06:44:16 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:44:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:44:16 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:44:16 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064404.pcap
+2025-05-25 06:44:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064448.pcap
+2025-05-25 06:44:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064448
+2025-05-25 06:44:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:45:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:45:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:45:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 06:45:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064448.pcap
+2025-05-25 06:45:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064543.pcap
+2025-05-25 06:45:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064543
+2025-05-25 06:45:54 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:45:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:45:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:45:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064543.pcap
+2025-05-25 06:46:10 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064557.pcap
+2025-05-25 06:46:10 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064557
+2025-05-25 06:46:10 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:46:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 06:46:11 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 06:46:11 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064557.pcap
+2025-05-25 06:46:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064645.pcap
+2025-05-25 06:46:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064645
+2025-05-25 06:46:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:46:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:46:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:46:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064645.pcap
+2025-05-25 06:47:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064740.pcap
+2025-05-25 06:47:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064740
+2025-05-25 06:47:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:47:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:47:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:47:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 06:47:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 06:47:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064740.pcap
+2025-05-25 06:48:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064755.pcap
+2025-05-25 06:48:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064755
+2025-05-25 06:48:07 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:48:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:48:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:48:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064755.pcap
+2025-05-25 06:48:31 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064820.pcap
+2025-05-25 06:48:31 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525064820
+2025-05-25 06:48:32 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:48:32 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:48:32 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:48:32 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525064820.pcap
+2025-05-25 06:50:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065043.pcap
+2025-05-25 06:50:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065043
+2025-05-25 06:50:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 06:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 06:50:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 06:50:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065043.pcap
+2025-05-25 06:51:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065109.pcap
+2025-05-25 06:51:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065109
+2025-05-25 06:51:20 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 06:51:21 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065109.pcap
+2025-05-25 06:51:45 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065134.pcap
+2025-05-25 06:51:45 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065134
+2025-05-25 06:51:45 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:51:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:51:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:51:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065134.pcap
+2025-05-25 06:51:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065147.pcap
+2025-05-25 06:51:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065147
+2025-05-25 06:51:58 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:51:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:51:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:51:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065147.pcap
+2025-05-25 06:56:41 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065631.pcap
+2025-05-25 06:56:41 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065631
+2025-05-25 06:56:42 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:56:43 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065631.pcap
+2025-05-25 06:56:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065645.pcap
+2025-05-25 06:56:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065645
+2025-05-25 06:56:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:56:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:56:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:56:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065645.pcap
+2025-05-25 06:58:25 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065814.pcap
+2025-05-25 06:58:25 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065814
+2025-05-25 06:58:25 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:58:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 06:58:26 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065814.pcap
+2025-05-25 06:58:49 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065838.pcap
+2025-05-25 06:58:49 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065838
+2025-05-25 06:58:50 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:58:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:58:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:58:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 06:58:50 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 06:58:50 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065838.pcap
+2025-05-25 06:59:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065853.pcap
+2025-05-25 06:59:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065853
+2025-05-25 06:59:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:59:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:59:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 06:59:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:59:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:59:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065853.pcap
+2025-05-25 06:59:18 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065907.pcap
+2025-05-25 06:59:18 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065907
+2025-05-25 06:59:18 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:59:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 06:59:19 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 06:59:19 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065907.pcap
+2025-05-25 06:59:41 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065931.pcap
+2025-05-25 06:59:41 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065931
+2025-05-25 06:59:42 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:59:42 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 211 flow
+2025-05-25 06:59:42 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065931.pcap
+2025-05-25 06:59:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065945.pcap
+2025-05-25 06:59:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525065945
+2025-05-25 06:59:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 06:59:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:59:57 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 06:59:57 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525065945.pcap
+2025-05-25 07:03:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070258.pcap
+2025-05-25 07:03:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525070258
+2025-05-25 07:03:10 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:03:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070258.pcap
+2025-05-25 07:03:45 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070334.pcap
+2025-05-25 07:03:45 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525070334
+2025-05-25 07:03:45 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:03:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 07:03:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 07:03:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 07:03:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 07:03:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 07:03:46 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 07:03:46 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070334.pcap
+2025-05-25 07:04:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070348.pcap
+2025-05-25 07:04:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525070348
+2025-05-25 07:04:00 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:04:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:04:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:04:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070348.pcap
+2025-05-25 07:09:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070943.pcap
+2025-05-25 07:09:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525070943
+2025-05-25 07:09:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:09:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:09:55 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:09:55 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070943.pcap
+2025-05-25 07:10:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070957.pcap
+2025-05-25 07:10:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525070957
+2025-05-25 07:10:09 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:10:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:10:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:10:10 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:10:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525070957.pcap
+2025-05-25 07:10:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071033.pcap
+2025-05-25 07:10:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071033
+2025-05-25 07:10:44 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:10:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071033.pcap
+2025-05-25 07:10:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071047.pcap
+2025-05-25 07:10:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071047
+2025-05-25 07:10:58 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:10:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:10:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:10:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071047.pcap
+2025-05-25 07:11:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071142.pcap
+2025-05-25 07:11:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071142
+2025-05-25 07:11:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:11:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:11:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:11:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071142.pcap
+2025-05-25 07:14:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071444.pcap
+2025-05-25 07:14:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071444
+2025-05-25 07:14:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:14:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:14:56 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:14:56 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071444.pcap
+2025-05-25 07:15:09 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071458.pcap
+2025-05-25 07:15:09 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071458
+2025-05-25 07:15:09 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:15:10 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071458.pcap
+2025-05-25 07:15:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071533.pcap
+2025-05-25 07:15:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071533
+2025-05-25 07:15:45 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:15:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:15:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:15:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071533.pcap
+2025-05-25 07:15:58 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071547.pcap
+2025-05-25 07:15:58 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071547
+2025-05-25 07:15:58 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:15:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:15:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:15:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071547.pcap
+2025-05-25 07:16:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071633.pcap
+2025-05-25 07:16:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071633
+2025-05-25 07:16:45 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:16:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 07:16:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071633.pcap
+2025-05-25 07:16:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071648.pcap
+2025-05-25 07:16:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525071648
+2025-05-25 07:16:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:17:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:17:00 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:17:00 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525071648.pcap
+2025-05-25 07:20:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072040.pcap
+2025-05-25 07:20:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072040
+2025-05-25 07:20:52 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:20:52 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072040.pcap
+2025-05-25 07:21:46 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072134.pcap
+2025-05-25 07:21:46 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072134
+2025-05-25 07:21:46 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:21:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1001 flow
+2025-05-25 07:21:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 07:21:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 07:21:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072134.pcap
+2025-05-25 07:22:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072149.pcap
+2025-05-25 07:22:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072149
+2025-05-25 07:22:01 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:22:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:22:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:22:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072149.pcap
+2025-05-25 07:25:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072537.pcap
+2025-05-25 07:25:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072537
+2025-05-25 07:25:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:25:49 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072537.pcap
+2025-05-25 07:26:12 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072601.pcap
+2025-05-25 07:26:12 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072601
+2025-05-25 07:26:13 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:26:13 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 07:26:13 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072601.pcap
+2025-05-25 07:26:47 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072636.pcap
+2025-05-25 07:26:47 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072636
+2025-05-25 07:26:47 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:26:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:26:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:26:48 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 07:26:48 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072636.pcap
+2025-05-25 07:27:11 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072700.pcap
+2025-05-25 07:27:11 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072700
+2025-05-25 07:27:11 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:27:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 07:27:12 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 07:27:12 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072700.pcap
+2025-05-25 07:27:25 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072714.pcap
+2025-05-25 07:27:25 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072714
+2025-05-25 07:27:26 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:27:26 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:27:27 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072714.pcap
+2025-05-25 07:27:48 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072739.pcap
+2025-05-25 07:27:48 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072739
+2025-05-25 07:27:49 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:27:49 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:27:49 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072739.pcap
+2025-05-25 07:28:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072751.pcap
+2025-05-25 07:28:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072751
+2025-05-25 07:28:03 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:28:04 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072751.pcap
+2025-05-25 07:28:17 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072806.pcap
+2025-05-25 07:28:17 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072806
+2025-05-25 07:28:17 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:28:18 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1002 flow
+2025-05-25 07:28:18 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072806.pcap
+2025-05-25 07:28:52 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072841.pcap
+2025-05-25 07:28:52 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072841
+2025-05-25 07:28:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 07:28:53 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072841.pcap
+2025-05-25 07:29:07 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072855.pcap
+2025-05-25 07:29:07 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072855
+2025-05-25 07:29:07 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:29:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:29:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:29:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:29:08 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:29:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072855.pcap
+2025-05-25 07:29:21 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072910.pcap
+2025-05-25 07:29:21 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072910
+2025-05-25 07:29:22 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:29:22 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072910.pcap
+2025-05-25 07:29:44 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072934.pcap
+2025-05-25 07:29:44 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072934
+2025-05-25 07:29:45 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 11 flow
+2025-05-25 07:29:45 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072934.pcap
+2025-05-25 07:29:59 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072948.pcap
+2025-05-25 07:29:59 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525072948
+2025-05-25 07:29:59 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 7 flow
+2025-05-25 07:29:59 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525072948.pcap
+2025-05-25 07:33:32 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073321.pcap
+2025-05-25 07:33:32 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525073321
+2025-05-25 07:33:32 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:33:33 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 87 flow
+2025-05-25 07:33:33 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073321.pcap
+2025-05-25 07:33:46 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073335.pcap
+2025-05-25 07:33:46 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525073335
+2025-05-25 07:33:46 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 2 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 6 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 5 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 8 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 9 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 10 flow
+2025-05-25 07:33:47 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073335.pcap
+2025-05-25 07:34:00 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073349.pcap
+2025-05-25 07:34:00 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525073349
+2025-05-25 07:34:00 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:34:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:34:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 07:34:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 4 flow
+2025-05-25 07:34:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:34:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:34:01 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:34:01 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073349.pcap
+2025-05-25 07:34:14 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073403.pcap
+2025-05-25 07:34:14 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525073403
+2025-05-25 07:34:15 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:34:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 07:34:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 07:34:15 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1003 flow
+2025-05-25 07:34:15 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073403.pcap
+2025-05-25 07:34:50 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073439.pcap
+2025-05-25 07:34:50 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525073439
+2025-05-25 07:34:50 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:34:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:34:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:34:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:34:51 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 3 flow
+2025-05-25 07:34:51 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073439.pcap
+2025-05-25 07:35:04 INFO  cic.cs.unb.ca.ifm.Cmd    You select: /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073453.pcap
+2025-05-25 07:35:04 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: /home/kali/Desktop/PFA-LAST/flow_features/features-20250525073453
+2025-05-25 07:35:04 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-05-25 07:35:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:35:05 DEBUG cic.cs.unb.ca.jnetpcap.FlowGenerator    FlagFIN current has 1 flow
+2025-05-25 07:35:05 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on /home/kali/Desktop/PFA-LAST/suspicious_pcaps/suspicious-20250525073453.pcap

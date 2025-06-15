@@ -1,0 +1,27 @@
+{
+    "features_file": "/home/kali/Desktop/PFA-LAST/flow_features/features-20250615171658.csv",
+    "results_file": "/home/kali/Desktop/PFA-LAST/flow_results/results-20250615171714.csv",
+    "total_samples": 15,
+    "predictions": {
+        "BENIGN": 15,
+        "Bot": 0,
+        "Brute Force": 0,
+        "DDoS": 0,
+        "DoS": 0,
+        "Port Scan": 0,
+        "Web Attack": 0
+    },
+    "average_confidence": 0.511449610097789,
+    "timestamp": "2025-06-15T17:17:14.471187",
+    "statistics": {
+        "confidence_stats": {
+            "mean": 0.511449610097789,
+            "std": 0.1178171641275289,
+            "min": 0.3001044506051938,
+            "max": 0.6865745358213289
+        },
+        "top_predictions": {
+            "BENIGN": 15
+        }
+    }
+}
