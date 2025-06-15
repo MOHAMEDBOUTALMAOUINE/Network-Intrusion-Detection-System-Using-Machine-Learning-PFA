@@ -76,8 +76,8 @@ This is my End-Of-Year Project (PFA) for my 4th year of engineering as a cyberse
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
-   cd [repository-name]
+   git clone https://github.com/MOHAMEDBOUTALMAOUINE/Network-Intrusion-Detection-System-Using-Machine-Learning-PFA.git
+   cd Network-Intrusion-Detection-System-Using-Machine-Learning-PFA
    ```
 
 2. **Install required Python packages:**
